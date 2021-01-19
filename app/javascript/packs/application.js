@@ -13,9 +13,15 @@ Turbolinks.start()
 ActiveStorage.start()
 
 
-require("vendor/js/vendor/jquery.min")
+//require("vendor/js/vendor/jquery.min")
+//require("vendor/js/vendor/jquery.min")
+
+
+// require("vendor/layerslider/js/greensock")
+// require("vendor/layerslider/js/layerslider.kreaturamedia.jquery")
+// require("vendor/layerslider/js/layerslider.transitions")
+
 require("vendor/js/vendor/bootstrap")
-require("vendor/js/vendor/jquery.easing")
 require("vendor/switcher/demo")
 require("vendor/js/plugins/jquery.jcarousel.min")
 require("vendor/js/plugins/isotope.pkgd.min")
